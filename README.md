@@ -12,7 +12,7 @@ This repository contains the Solidity code for the DegenGamingToken contract, an
 
 # Usage
 
-##Deploying the Contract
+## Deploying the Contract
 
 1. Ensure you have the OpenZeppelin library installed.
 2. Compile and deploy the contract using your preferred Ethereum development environment (e.g., Truffle, Hardhat, Remix).
